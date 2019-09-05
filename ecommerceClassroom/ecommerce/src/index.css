@@ -1,0 +1,20 @@
+@font-face {
+  font-family: googlefont;
+  src: url('./googlefonts/GoogleSans-Regular.ttf');
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: googlefont;
+}
+
+div {
+  font-family: googlefont;
+}
+
+code {
+  font-family: googlefont;
+  background-color: red;
+
+}
